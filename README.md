@@ -9,7 +9,7 @@ _Program Starts_
 ![](Screenshots/2.png)
 _Artificial Intelligence Wins_
 
-The result is **Draw**
+The result is **Draw**.
 ![](Screenshots/3.png)
 _Result is Draw_
 
@@ -17,3 +17,18 @@ _Result is Draw_
 **AI Starts First** does the opposite of above operation. Here **My Turn** indicates AI is picking moveset.
 ![](Screenshots/4.png)
 _AI Pickes His Move At First_
+
+**Draw** result.
+![](Screenshots/5.png)
+_Result is Draw_
+
+**Artificial Intelligence** does my tricky moves.
+![](Screenshots/6.png)
+_Tricky Move 1_
+
+![](Screenshots/7.png)
+_Tricky Move 2_
+
+
+
+
