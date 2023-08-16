@@ -13,3 +13,7 @@ The result is **Draw**
 ![](Screenshots/3.png)
 _Result is Draw_
 
+# Artificial Intelligence X Vs Human O
+**AI Starts First** does the opposite of above operation. Here **My Turn** indicates AI is picking moveset.
+![](Screenshots/4.png)
+_AI Pickes His Move At First_
