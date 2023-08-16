@@ -1,5 +1,10 @@
 # TicTacToe-AI-Project-using-Tree-and-Alpha-Beta-Pruning-Algorithm-and-Swing-Library
 
+The **Artificial Intelligence** has been codes in Java Programming Language. **Tree Data Structure** and **Alpha Beta Pruning Algorithm** have been used in this project. The Tree Data Structure creates different future states of the current state. Each state carries a factor value. This factor values are needed for the leaf nodes when Alpha Beta Pruning Algorithm is applied on that tree. Factor Value For Maximizing Level Nodes = 1 * (Number of empty cells + 1) and Factor Value For Minimizing Level Nodes = -1 * (Number of empty cells + 1). The Alpha Beta Pruning Algorithm determines the appropriate counter states of the current state.
+
+![](Screenshots/0.png)
+_The Project_
+
 # Human X Vs Artificial Intelligence O 
 **Start** button starts the program where **Human** does the first move and this second moveset is picked by the **Artificial Intelligence** itself.
 ![](Screenshots/1.png)
