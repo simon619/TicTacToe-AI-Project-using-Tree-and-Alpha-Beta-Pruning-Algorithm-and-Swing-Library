@@ -29,6 +29,14 @@ _Tricky Move 1_
 ![](Screenshots/7.png)
 _Tricky Move 2_
 
+# Artificial Intelligence 1 X Vs Artificial Intelligence 2 O
+**AI versus AI** button does the action where two AIs battle against each other.
+![](Screenshots/8.png)
+_First Move_
+![](Screenshots/9.png)
+_Second Move_
+![](Screenshots/10.png)
+_Third Move_
 
 
 
