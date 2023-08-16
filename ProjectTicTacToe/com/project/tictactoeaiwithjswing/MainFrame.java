@@ -229,7 +229,6 @@ class TicTacToeAI {
     public boolean validity(String str, int pointer) {
         return (str.charAt(pointer) == 'X' || str.charAt(pointer) == 'O') ? true : false;     
     }
-
 }
 
 
@@ -297,7 +296,6 @@ public class MainFrame {
                     ai = (whoStarted == "human") ? 'O' : 'X';
                     jTextField.appendString(" 0 | 1 | 2 \n-----------\n 3 | 4 | 5 \n-----------\n 6 | 7 | 8 \n \nPlayer 1: " + human + " and Player 2: " + ai + "\nEnter Your Position by Pressing Number: \n");
                     jTextField.appendString("----------------------------------------------------\n");
-
                 }
 
                 if (str == "aiStarts") {
@@ -372,8 +370,7 @@ public class MainFrame {
                                     jTextField.appendString("----------------------------------------------------\n");
                                 }
                             }
-                        }
-                        
+                        }                    
                     }
                 }
                 
@@ -422,7 +419,6 @@ public class MainFrame {
                             }
                         }
                     }
-
                 }
 
                 if (whoStarted == "ais") {
@@ -472,13 +468,13 @@ public class MainFrame {
                     }
                 }
             }
-            
         });
 
         jFrame.setLayout(new BorderLayout());      
         jFrame.add(jFormPanel, BorderLayout.WEST);
         jFrame.add(jTextField, BorderLayout.CENTER);
         jFrame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
+        
     }   
 }
 
