@@ -3,6 +3,7 @@
 # Human X Vs Artificial Intelligence O 
 **Start** button starts the program where **Human** does the first move and this second moveset is picked by the **Artificial Intelligence** itself.
 ![](Screenshots/1.png)
+_Program Starts_
 
 **Artificial Intelligence Winning** situation.
 ![](Screenshots/2.png)
